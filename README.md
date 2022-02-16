@@ -1,3 +1,6 @@
+<a href="https://i.imgur.com/I0dDXE1.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/I0dDXE1.png" alt="Python" width="700" height="400" style="vertical-align:top; margin:4px"> </a>
+
+
 ## Hi there 👋 I'm Daniel
 
 
@@ -13,9 +16,9 @@
 ## :email: Find me on:
 
 <!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="DanielAshorov" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DanielAshorov | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanielAshorov | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 
 <p align="center">
