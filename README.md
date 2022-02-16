@@ -66,8 +66,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=DanielAshorov&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DanielAshorov&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540DanielAshorov">
-  <img align="left" src="http://ionicabizau.github.io/github-profile-languages/?user=%2540DanielAshorov" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
 </a>
 </div>
 
