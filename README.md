@@ -4,8 +4,8 @@
 
 ## 🎓 I'm a Computer Science student at the Holon Institute of Technology
 
-- 🔭 I’m Web Designer.
-- 🌱 I’m App developer. 
+- 🔭 I’m a Web Designer.
+- 🌱 I’m a App developer. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love watching football.
