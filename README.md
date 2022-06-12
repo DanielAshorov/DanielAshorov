@@ -69,8 +69,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=DanielAshorov&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DanielAshorov&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAshorov&hide=jupyter%20notebook&theme=radical&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAshorov&hide=jupyter%20notebook&theme=radical&layout=compact" />
 </a>
 </div>
 
